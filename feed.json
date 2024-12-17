@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MRCKP",
+    "description": "",
+    "home_page_url": "https://mrckp.github.io",
+    "feed_url": "https://mrckp.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "mrk"
+    },
+    "items": [
+        {
+            "id": "https://mrckp.github.io/test-message.html",
+            "url": "https://mrckp.github.io/test-message.html",
+            "title": "Test Message",
+            "summary": "Test Test",
+            "content_html": "<p>Test Test</p>",
+            "author": {
+                "name": "mrk"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-17T14:41:58+01:00",
+            "date_modified": "2024-12-17T14:41:58+01:00"
+        }
+    ]
+}

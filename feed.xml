@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MRCKP</title>
+    <link href="https://mrckp.github.io/feed.xml" rel="self" />
+    <link href="https://mrckp.github.io" />
+    <updated>2024-12-17T14:41:58+01:00</updated>
+    <author>
+        <name>mrk</name>
+    </author>
+    <id>https://mrckp.github.io</id>
+
+    <entry>
+        <title>Test Message</title>
+        <author>
+            <name>mrk</name>
+        </author>
+        <link href="https://mrckp.github.io/test-message.html"/>
+        <id>https://mrckp.github.io/test-message.html</id>
+
+        <updated>2024-12-17T14:41:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Test Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test Test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

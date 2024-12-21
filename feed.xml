@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>MRCKP.NL</title>
-    <link href="https://mrckp.github.io/feed.xml" rel="self" />
-    <link href="https://mrckp.github.io" />
+    <link href="https://mrckp.nl/feed.xml" rel="self" />
+    <link href="https://mrckp.nl" />
     <updated>2024-12-17T15:49:41+01:00</updated>
     <author>
         <name>mrk</name>
     </author>
-    <id>https://mrckp.github.io</id>
+    <id>https://mrckp.nl</id>
 
     <entry>
         <title>Wandelen in Brabant</title>
         <author>
             <name>mrk</name>
         </author>
-        <link href="https://mrckp.github.io/wandelen-in-brabant.html"/>
-        <id>https://mrckp.github.io/wandelen-in-brabant.html</id>
+        <link href="https://mrckp.nl/wandelen-in-brabant.html"/>
+        <id>https://mrckp.nl/wandelen-in-brabant.html</id>
             <category term="Wandelen"/>
             <category term="Fotografie"/>
 
@@ -31,16 +31,16 @@
                 <p>Ergens in Brabant op de zandpaden tussen Sterksel en Heeze op een zonnige dag in december. Mooi wandelweer.</p>
 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT10.jpg" data-size="2664x4000"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT10-thumbnail.jpg" alt="" width="720" height="1081"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT06.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT06-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT07.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT07-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT08.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT08-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT09.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT09-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT01.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT01-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT02.jpg" data-size="3690x2456"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT02-thumbnail.jpg" alt="" width="720" height="479"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT03.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT03-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT04.jpg" data-size="2664x4000"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT04-thumbnail.jpg" alt="" width="720" height="1081"></a></figure>
-<figure class="gallery__item"><a href="https://mrckp.github.io/media/posts/10/gallery/BRABANT05.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.github.io/media/posts/10/gallery/BRABANT05-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT10.jpg" data-size="2664x4000"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT10-thumbnail.jpg" alt="" width="720" height="1081"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT06.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT06-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT07.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT07-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT08.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT08-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT09.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT09-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT01.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT01-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT02.jpg" data-size="3690x2456"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT02-thumbnail.jpg" alt="" width="720" height="479"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT03.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT03-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT04.jpg" data-size="2664x4000"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT04-thumbnail.jpg" alt="" width="720" height="1081"></a></figure>
+<figure class="gallery__item"><a href="https://mrckp.nl/media/posts/10/gallery/BRABANT05.jpg" data-size="4000x2664"><img loading="lazy" src="https://mrckp.nl/media/posts/10/gallery/BRABANT05-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -50,23 +50,23 @@
         <author>
             <name>mrk</name>
         </author>
-        <link href="https://mrckp.github.io/alternatief-voor-raspberry-pi.html"/>
-        <id>https://mrckp.github.io/alternatief-voor-raspberry-pi.html</id>
-        <media:content url="https://mrckp.github.io/media/posts/9/hp_prodesk_400_g5.jpg" medium="image" />
+        <link href="https://mrckp.nl/alternatief-voor-raspberry-pi.html"/>
+        <id>https://mrckp.nl/alternatief-voor-raspberry-pi.html</id>
+        <media:content url="https://mrckp.nl/media/posts/9/hp_prodesk_400_g5.jpg" medium="image" />
             <category term="RPi"/>
             <category term="Hardware"/>
 
         <updated>2024-10-28T15:16:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mrckp.github.io/media/posts/9/hp_prodesk_400_g5.jpg" alt="HP Prodesk" />
+                        <img src="https://mrckp.nl/media/posts/9/hp_prodesk_400_g5.jpg" alt="HP Prodesk" />
                     <p>Sinds 2012 zijn de diverse Raspberry PI's een goed platform voor kleinschalige thuisserver toepassingen. Menig website, multimedia of file server wordt gedraaid op deze compacte single board computers.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mrckp.github.io/media/posts/9/hp_prodesk_400_g5.jpg" class="type:primaryImage" alt="HP Prodesk" /></p>
+                    <p><img src="https://mrckp.nl/media/posts/9/hp_prodesk_400_g5.jpg" class="type:primaryImage" alt="HP Prodesk" /></p>
                 <p>Sinds 2012 zijn de diverse Raspberry PI's een goed platform voor kleinschalige thuisserver toepassingen. Menig website, multimedia of file server wordt gedraaid op deze compacte single board computers.</p>
 
 <p>Door onderdelenschaarste, inflatie en technische groei is de prijs in de afgelopen 12 jaar helaas fors opgelopen. Gingen de eerste versies nog voor circa 35 euro over de toonbank nu ligt de prijs al gauw op 75 tot 90 euro. Dit is dan de prijs voor de Pi zelf. Daar komen dan nog kosten voor behuizing, voeding en eventueel koelsysteem bij. Je winkelwagentje in een webshop tikt zo maar €150 aan.<br><br>Gelukkig heeft de Raspberry Pi organisatie dit zelf ook ingezien en levert inmiddels ook een serie vereenvoudigde bordjes onder de namen Zero en Pico. Deze laatsen zijn wellicht prima te gebruiken voor DIY-projecten maar zijn minder geschikt voor server toepassingen.<br><br>Een goede ontwikkeling bij het laatste Pi 5 model is de mogelijkheid om niet langer gebruik te maken van de trage en kwetsbare SD kaartjes maar over te stappen naar NVME M.2 opslag media. Helaas is hier wel een extra HAT voor nodig wat de prijs verder opdrijft en de doorvoor voor PCI 2.0 interface is beperkt tot maximaal 500 MB/s. Daarnaast blijken er soms compatibiliteitsproblemen op te treden tussen Pi 5 en de NVME M.2 opslag media.<br><br>Een potentieel alternatief voor een Pi 5 met toebehoren is het gebruik van een mini of small form factor (sff) PC. Als je kiest voor een tweedehands HP, Lenovo of Dell dan heb je vanaf pakweg €100 een prima basis voor een thuis server. Een beetje afhankelijk van type en bouwjaar geeft je de keuze uit een i3, i5 of i7 Intel of AMD processor, 2 SO-DIMM slots voor 32 of 64GB memory, een SATA III aansluiting, WiFi en een NVME M.2 slot op basis van PCI 3.0 of 4.0. Net als een Pi heeft een dergelijke PC een 4-tal USB 2.0/3.x aansluitingen Het stroomverbruik (idle) ligt rond de 10 watt per uur, dus dat valt ook te overzien. Deze zeer gangbare Intel/AMD platformen ondersteunen alle gangbare versies van FreeBSD of Linux.<br><br>Dit alternatief voor een RPi gaat natuurlijk alleen op als je geen gebruik hoeft te maken van de 40-polige GPIO interface!</p>
@@ -78,23 +78,23 @@
         <author>
             <name>mrk</name>
         </author>
-        <link href="https://mrckp.github.io/dns-filters.html"/>
-        <id>https://mrckp.github.io/dns-filters.html</id>
-        <media:content url="https://mrckp.github.io/media/posts/7/AdGuard-logo-2.png" medium="image" />
+        <link href="https://mrckp.nl/dns-filters.html"/>
+        <id>https://mrckp.nl/dns-filters.html</id>
+        <media:content url="https://mrckp.nl/media/posts/7/AdGuard-logo-2.png" medium="image" />
             <category term="Privacy"/>
             <category term="DNS"/>
 
         <updated>2024-10-09T15:15:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mrckp.github.io/media/posts/7/AdGuard-logo-2.png" alt="" />
+                        <img src="https://mrckp.nl/media/posts/7/AdGuard-logo-2.png" alt="" />
                     <p>Helaas is het internet vergeven van reclame en dataverzamelaars. Soms is het nodig omdat het de enige vorm van inkomsten van een site is. Helaas leidt het vaak ook veel te veel af van de inhoud en worden er oneigenlijke gegevens verzameld. Hier valt eenvoudig wat aan te doen.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mrckp.github.io/media/posts/7/AdGuard-logo-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mrckp.nl/media/posts/7/AdGuard-logo-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Helaas is het internet vergeven van reclame en dataverzamelaars. Soms is het nodig omdat het de enige vorm van inkomsten van een site is. Helaas leidt het vaak ook veel te veel af van de inhoud en worden er oneigenlijke gegevens verzameld. Hier valt eenvoudig wat aan te doen.</p>
 
 <p>Natuurlijk kun je een adblocker installeren als plugin voor je webbrowser. Ze zijn beschikbaar voor alle grote browsers op alle platformen. Al het verkeer van de webbrowser wordt gefilterd op verwijzingen naar de bekende advertentienetwerken. Ze werken prima maar bijvoorbeeld email in een mailprogramma met z'n tracking pixels en advertenties wordt niet gefilterd. Om maar niet te spreken over apparaten als smart-TV's etc.. Deze zoeken zonder aanwijsbare redenen regelmatig contact met de servers van de leverancier.<br><br>Door op een iets fundamenteler niveau dit probleem aan te pakken is er een oplossing nodig voor alles wat gebruik maakt van een internet verbinding. Door ieder verzoek van ieder apparaat achter de internet router te controleren tegen een lijst met bekende reclame (en malware!) sites is het mogelijk om verwijzingen naar deze ongewenste informatie op webpagina's maar ook onnodige verzoeken van zogenaamde smart apparaten uit het verkeer te filteren.<br><br>Bedrijven als AdGuard bieden DNS servers aan met deze filter mogelijkheid. Kijk <a href="https://adguard-dns.io/en/public-dns.html">hier</a> voor een instructie om de router thuis zodanig in te stellen dat er (bijna) geen reclame doorkomt. Bijkomend voordeel is dat het laden van websites een stuk sneller gaat.<br><br>Zo'n DNS server is een prima oplossing om zonder al te veel gedoe de meeste reclame buiten te houden. Beperking is dat jezelf geen invloed kunt uitoefenen wat er daadwerkelijk gefilterd en doorgelaten worden. Wil je dit wel dan kun je bij AdGuard een eigen DNS server in de cloud huren of je installeert zo'n filter op een kleine server thuis. Op de GitHub site van <a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a> wordt verschillende opties voor thuis-installatie beschreven. Vervolgens kun je zelf de uitzonderingen op de standaardlijsten maken door sites op te nemen in de configuratie.<br><br>Een server met AdGuard home thuis draaien heeft nog een voordeel: er is voorzien in een basis monitoring zodat je kunt zien welke DNS verzoeken gedaan worden. Ervaring na een jaar gebruik van AdGuard Home leert dat er ongeveer 13% van de DNS verzoeken worden onderschept. Waarschijnlijk dat ook het totale internet verkeer met een dergelijk volume afneemt.<br><br>Mocht je wel een dergelijk service willen hebben maar om een of andere reden AdGuard niet zien zitten, het is immers een bedrijf op Cyprus met Russische roots, PiHole biedt een vergelijkbare aanpak.</p>
@@ -106,27 +106,27 @@
         <author>
             <name>mrk</name>
         </author>
-        <link href="https://mrckp.github.io/adguard.html"/>
-        <id>https://mrckp.github.io/adguard.html</id>
-        <media:content url="https://mrckp.github.io/media/posts/8/AdGuard-logo-2.png" medium="image" />
+        <link href="https://mrckp.nl/adguard.html"/>
+        <id>https://mrckp.nl/adguard.html</id>
+        <media:content url="https://mrckp.nl/media/posts/8/AdGuard-logo-2.png" medium="image" />
             <category term="Privacy"/>
             <category term="DNS"/>
 
         <updated>2024-08-08T15:15:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mrckp.github.io/media/posts/8/AdGuard-logo-2.png" alt="" />
+                        <img src="https://mrckp.nl/media/posts/8/AdGuard-logo-2.png" alt="" />
                     <p>Toch nog een klein stukje over AdGuard en hoe je het eenvoudig instelt zonder gedoe.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mrckp.github.io/media/posts/8/AdGuard-logo-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mrckp.nl/media/posts/8/AdGuard-logo-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Toch nog een klein stukje over AdGuard en hoe je het eenvoudig instelt zonder gedoe.</p>
 
 <p>Allereerst, wat is het voordeel van AdGuard (of welke andere ad-blocker dan ook)? Het geeft je een mogelijkheid om wat te doen aan allelei reclame trackers. Omdat deze onderdrukt worden ogen webpagina's duidelijker en vooral rustiger. Ook de zogenaamde tracking-pixels in reclame-emails worden onderdrukt. Kortom, iets meer data privacy.<br><br>In principe kun je dit ook bereiken met een ad-blocker die je als een browser extensie installeert. Maar een DNS ad-blocker zoals AdGuard gaat verder. Als deze goed is ingesteld dan werkt hij voor alle appraten in je thuisnetwerk. Denk aan set-topboxen (Apple TV, Chromecast), media spelers (Sonos), smart tv's (Samsung, LG, etc) en game consoles. Verder biedt een goede ad-blocker ook bescherming tegen de bekende malware sites.<br><br>Zoals altijd komt het goede nooit zonder kosten. In dit geval moet er wat worden ingesteld in de router van de internet aanbieder.<br><br>Hier vindt je de eigen instructies van AdGuard, even doorscrollen naar de sectie "Routers". Je hebt keuze uit een drietal DNS servers met ingebouwde filters: Default servers - met advertentie filters, Non-filtering servers - zoals de naam al aangeeft en Family protection servers - deze weren ook zaken als porno en zetten zoekmachines in een "save mode".<br><br>Als voorbeeld voor een Fritz!Box ga je na het inloggen op [http://192.168.178.1](http://192.168.178.1) naar het linker menu en dan: Thuisnetwerk -&gt; Internet -&gt; Toegangsgegevens -&gt; DNS-server en dan in onderstaande scherm de DNS-servers van AdGuard invullen:</p>
-<figure class="post__image post__image--center"><br><img loading="lazy"  src="https://mrckp.github.io/media/posts/8/DNS-instellingen.png" alt="DNS instellingen" width="1244" height="456" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mrckp.github.io/media/posts/8/responsive/DNS-instellingen-xs.png 640w ,https://mrckp.github.io/media/posts/8/responsive/DNS-instellingen-sm.png 768w ,https://mrckp.github.io/media/posts/8/responsive/DNS-instellingen-md.png 1024w ,https://mrckp.github.io/media/posts/8/responsive/DNS-instellingen-lg.png 1366w ,https://mrckp.github.io/media/posts/8/responsive/DNS-instellingen-xl.png 1600w ,https://mrckp.github.io/media/posts/8/responsive/DNS-instellingen-2xl.png 1920w"></figure><br><br>Na deze aanpassing nog de DHCP instellingen van de lokale computer aanpassen. Dit gaat het makkelijkste via een herstart van de computer. Als je nu naar de deze webpagina gaat en onderstaande afbeelding verschijnt dan weet je zeker dat je goed zit.</p>
+<figure class="post__image post__image--center"><br><img loading="lazy"  src="https://mrckp.nl/media/posts/8/DNS-instellingen.png" alt="DNS instellingen" width="1244" height="456" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mrckp.nl/media/posts/8/responsive/DNS-instellingen-xs.png 640w ,https://mrckp.nl/media/posts/8/responsive/DNS-instellingen-sm.png 768w ,https://mrckp.nl/media/posts/8/responsive/DNS-instellingen-md.png 1024w ,https://mrckp.nl/media/posts/8/responsive/DNS-instellingen-lg.png 1366w ,https://mrckp.nl/media/posts/8/responsive/DNS-instellingen-xl.png 1600w ,https://mrckp.nl/media/posts/8/responsive/DNS-instellingen-2xl.png 1920w"></figure><br><br>Na deze aanpassing nog de DHCP instellingen van de lokale computer aanpassen. Dit gaat het makkelijkste via een herstart van de computer. Als je nu naar de deze webpagina gaat en onderstaande afbeelding verschijnt dan weet je zeker dat je goed zit.</p>
             ]]>
         </content>
     </entry>
@@ -135,22 +135,22 @@
         <author>
             <name>mrk</name>
         </author>
-        <link href="https://mrckp.github.io/privacy2.html"/>
-        <id>https://mrckp.github.io/privacy2.html</id>
-        <media:content url="https://mrckp.github.io/media/posts/4/hue-2.jpg" medium="image" />
+        <link href="https://mrckp.nl/privacy2.html"/>
+        <id>https://mrckp.nl/privacy2.html</id>
+        <media:content url="https://mrckp.nl/media/posts/4/hue-2.jpg" medium="image" />
             <category term="Privacy"/>
 
         <updated>2024-04-07T15:11:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mrckp.github.io/media/posts/4/hue-2.jpg" alt="" />
+                        <img src="https://mrckp.nl/media/posts/4/hue-2.jpg" alt="" />
                     <p>Natuurlijk heb je iets te verbergen. En dan bedoel ik niet dat je dingen doet die je ook niet zou willen delen op je werk of sportclub maar zaken over je eigen dagelijkse activiteiten.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mrckp.github.io/media/posts/4/hue-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mrckp.nl/media/posts/4/hue-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Natuurlijk heb je iets te verbergen. En dan bedoel ik niet dat je dingen doet die je ook niet zou willen delen op je werk of sportclub maar zaken over je eigen dagelijkse activiteiten.</p>
 
 <p>Veel producten en diensten kun je tegenwoordig niet meer afnemen zonder extra informatie te verstrekken aan de leverancier. Denk aan kortingen op producten die je pas krijgt nadat je je registreert, productinformatie die je pas na aanmelden kunt downloaden en veel elektronische producten zijn zonder bijbehorende app en account niet te gebruiken.<br><br>Voor de leverancier zijn dit soort constructies ware data-goudmijnen. Zij krijgen niet alleen een directe link met een koper of gebruiker van de dienst maar veelal ook gebruiksdata. De navigatie van de auto vertelt de leverancier hoe vaak en hoe intensief hij gebruikt wordt. De app van de stoomoven meldt niet alleen wanneer het eten klaar is maar geeft de leverancier ook inzage in het gebruik, de gekozen programma’s etc.. Het is misschien prettig dat storingen op deze wijze snel en effectief worden doorgegeven maar voor de rest? Wat te denken dat de garantie op een auto minder wordt omdat je een keer te hard hebt gereden?<br><br>Bovenstaande is geen wereldvreemde gedachtenkronkel, nu al zijn verzekeringsmaatschappijen bezig met zogenaamde lifestyle programma’s. Natuurlijk is er het nobele doel om mensen aan te zetten tot een gezondere levensstijl maar wat als een individu niet voldoet aan de normen? Wordt hij of zij dan uitgesloten van bepaalde vergoedingen?</p>
@@ -162,22 +162,22 @@
         <author>
             <name>mrk</name>
         </author>
-        <link href="https://mrckp.github.io/monarchie.html"/>
-        <id>https://mrckp.github.io/monarchie.html</id>
-        <media:content url="https://mrckp.github.io/media/posts/5/kroon-2.png" medium="image" />
+        <link href="https://mrckp.nl/monarchie.html"/>
+        <id>https://mrckp.nl/monarchie.html</id>
+        <media:content url="https://mrckp.nl/media/posts/5/kroon-2.png" medium="image" />
             <category term="Monarchie"/>
 
         <updated>2023-10-09T15:14:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mrckp.github.io/media/posts/5/kroon-2.png" alt="" />
+                        <img src="https://mrckp.nl/media/posts/5/kroon-2.png" alt="" />
                     <p>Koningsdag is natuurlijk hét moment om nog eens stil te staan bij het archaische instituut van een koningshuis en de bedenkelijke gang van zaken rond erfopvolging bij het vervullen van een publieke functie.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mrckp.github.io/media/posts/5/kroon-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mrckp.nl/media/posts/5/kroon-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Koningsdag is natuurlijk hét moment om nog eens stil te staan bij het archaische instituut van een koningshuis en de bedenkelijke gang van zaken rond erfopvolging bij het vervullen van een publieke functie.</p>
 
 <p>Rond koningsdag is het in de media niet moeilijk om stukken te vinden over de al dan niet afnemende populariteit van het koningshuis. Er is ook geen gebrek aan artikelen met onderwerpen zoals het wel of niet aanvoelen van wat leeft in de maatschappij of een verkeerde keuze met vakanties tijdens de COVID-19 pandemie.<br><br>Deze zaken worden ten tijden van de behandeling van de begroting in de Tweede Kamer aangevuld met discussies over de kosten en eventuele opbrengsten van het koningshuis. Altijd vermakelijk zijn de krampachtige pogingen van regering en ambtenaren om de begroting van onze majesteit vaag en onduidelijk te houden.<br><br>Uiteindelijk gaat het hier allemaal niet om. De hamvraag is natuurlijk waarom we anno 2023 nog steeds de invulling van de functie van staatshoofd laten bepalen door erfopvolging. Voor alle andere functies, van hoog tot laag kennen we uitgebreide eisen, sollicitaties en zelfs benoemingscommissies maar juist voor de functie van staatshoofd maken we gebruik van het slechts denkbare criterium: wie zijn je ouders?<br><br>Een blik in het recente verleden van het koningshuis leert dat voorouders bepaald geen garantie zijn voor een goed vervulde functie. Denk aan een koningin als Wilhelmina, labiel en drugsverslaafd en een levenspartner die een voorkeur had voor buitenechtelijke escapades. Juliana wellicht lief maar zeker ook naïef van karakter en gezegend met een zeer dubieuze echtgenoot. En in dit rijtje miststaat een autoritaire Beatrix bepaald niet.<br><br>Dat de lokale slager of bakker op deze wijze de continuïteit van het familiebedrijf zeker probeert te stellen is prima. Mocht de erfopvolger niet functioneren dan is uitwijken naar een alternatief zonder al te veel gedoe mogelijk. Bij een staatshoofd die in principe levenslang de functie kan vervullen, wordt het echter heel lastig. Alleen emigreren is misschien een optie.<br><br>Hét voordeel van een gekozen staatshoofd is dat indien hij een potje van maakt we binnen een paar jaar deze weg kunnen sturen. En mocht de persoon juist goed werk hebben verricht dan kunnen we hem (of haar!) belonen met een nieuwe ambstermijn. <br><br>De dag waarom ik zou besluiten mijn functie neer te leggen en vervolgens een van mijn kinderen deze overneemt zonder dat collega's of klanten dit zonder met de ogen te knipperen accepteren, is de dag waarop ik monarchist wordt. Tot die tijd span ik mij in voor een republiek. </p>
@@ -189,23 +189,23 @@
         <author>
             <name>mrk</name>
         </author>
-        <link href="https://mrckp.github.io/fritzbox.html"/>
-        <id>https://mrckp.github.io/fritzbox.html</id>
-        <media:content url="https://mrckp.github.io/media/posts/6/avm-fritzbox-4060-2.jpg" medium="image" />
+        <link href="https://mrckp.nl/fritzbox.html"/>
+        <id>https://mrckp.nl/fritzbox.html</id>
+        <media:content url="https://mrckp.nl/media/posts/6/avm-fritzbox-4060-2.jpg" medium="image" />
             <category term="IT"/>
             <category term="Hardware"/>
 
         <updated>2023-10-09T15:14:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mrckp.github.io/media/posts/6/avm-fritzbox-4060-2.jpg" alt="" />
+                        <img src="https://mrckp.nl/media/posts/6/avm-fritzbox-4060-2.jpg" alt="" />
                     <p><a href="https://avm.de">AVM</a> heeft met haar Fritz Box producten een goede reputatie opgebouwd. Niet voor niets gebruiken veel internet aanbieders Fritz Box modelen als standaard modem / router voor hun verbindingen.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mrckp.github.io/media/posts/6/avm-fritzbox-4060-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mrckp.nl/media/posts/6/avm-fritzbox-4060-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://avm.de">AVM</a> heeft met haar Fritz Box producten een goede reputatie opgebouwd. Niet voor niets gebruiken veel internet aanbieders Fritz Box modelen als standaard modem / router voor hun verbindingen.</p>
 
 <p>In de praktijk zijn de basis functies voor routing, wireless access inderdaad zeer betrouwbaar. Hetzelfde kan gezegd worden over de mesh netwerk functies en het lage stroomgebruik. Indertijd gaf bij mij de doorslag om een Fritz Box aan te schaffen dat je geen account op een of andere Chinese server hoeft te hebben om gebruik te kunnen maken van je eigen router.<br><br>Toch is het niet allemaal koek en ei met de Fritz Box. Na wat experimenteren kom ik tot een drietal teleurstellende ervaringen:<br><br>Een experiment met de ingebouwde media server leert dat deze met uitzondering van MP3-bestanden geen meta informatie uitleest. Met andere woorden, je kunt prima streamen met FLAC of AIFF bestanden maar je zorgvuldig opgebouwde meta informatie (naam van het liedje, artiest, afbeelding van het de hoes etc.) wordt niet zichtbaar. Je zult het moeten doen met de bestandsnaam. Achteraf kun je in de AVM knowledge base een [artikel](https://nl.avm.de/service/knowledge-base/dok/FRITZ-Box-4060/1074_Door-Media-Server-ondersteunde-bestandsindelingen/) terug vinden die dit keurig beschrijft.<br><br>Het gebruik van een Fritz Box (type 4060) als NAS heeft zijn beperkingen. Natuurlijk, met een USB stick van 16GB werkt alles naar behoren. Het systeem reageert vlot, op een effectieve manier zijn toegangsrechten in te stellen en de netwerkschijf valt te koppelen met alle mogelijke hardware. Maar wanneer we opschalen tot 1TB aan opslag en een bibliotheek van vele GB's gaan kopieren dan reageert de Fritz Box heel traag. Sterker nog, tijdens een kopieractie van 60GB heeft de Fritz Box zichzelf tot twee keer toe opnieuw opgestart! Het is duidelijk dat de CPU deze hoeveelheid aan data niet aankan.<br><br>Als Apple gebruiker wil je bij een NAS deze ook kunnen gebruiken voor Time Machine. Voor het gebruik van Time Machine op een Fritz Box kun je een [handleiding](https://www.tutonaut.de/en/How-to-use-time-machine-with-fritzbox/) vinden op het net. Na het nodige gepuzzel leidt dit niet tot een werkbaar resultaat. Ook nu weer biedt de knowledge base van AVM met dit [artikel](https://nl.avm.de/service/knowledge-base/dok/FRITZ-Box-4060/1065_Met-FRITZ-Box-verbonden-opslag-NAS-in-combinatie-met-Apple-Time-Machine-gebruiken/) het verlossende woord: het kan niet! Blijkbaar heeft AVM de specifieke Apple settings voor Samba niet doorgevoerd op de Fritz Box variant. Dit nog even los van een eventueel data volume probleem zoals geschetst in de vorige alinea.<br><br>Achteraf bezien had ik mij de moeite van het experiment kunnen besparen. Het is keurig gedocumenteerd dat de genoemde functies beperkt of niet werken. Maar toch, van een degelijk product mag je toch verwachten dat ook de extra functies naar behoren werken.</p>

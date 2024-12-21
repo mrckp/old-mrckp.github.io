@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://mrckp.github.io/sitemap.xml
+Sitemap: https://mrckp.nl/sitemap.xml
